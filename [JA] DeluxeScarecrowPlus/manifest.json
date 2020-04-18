@@ -1,0 +1,12 @@
+{
+  "Name": "Deluxe Scarecrow Plus",
+  "Author": "LyaVanLou",
+  "Version": "0.1.0-alpha",
+  "Description": "Adds an upgraded Deluxe Scarecrow.",
+  "UniqueID": "lyavanlou.deluxescarecrowplus",
+  "MinimumApiVersion": "3.0.1",
+  "UpdateKeys":  [],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  }
+}
